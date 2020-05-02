@@ -1,6 +1,7 @@
 # Arduino_PushButton
 <p align="center">
-Arduino Push-Button debounce utility class <br/>
+It is an utility class for Push-Button, 
+<br/>with debouce sistem based on time that is configurable <br/>
 Very simple to use with two mode :  <br/> INPUT or INPUT_PULLUP <br/>
 You can pass a method() do you prefer to the constructor</br>
 </p>
