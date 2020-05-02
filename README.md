@@ -3,7 +3,7 @@
 It is an utility class for Push-Button, 
 <br/>with debouce sistem based on time that is configurable <br/>
 Very simple to use with two mode :  <br/> INPUT or INPUT_PULLUP <br/>
-You can pass a method() do you prefer to the constructor</br>
+You can pass a <em> method() </em> do you prefer to the constructor</br>
 </p>
 
 <div id ="example">
