@@ -1,3 +1,12 @@
+/*
+ * Push Button Example
+ *
+ *  Created on: Mar 3, 2020
+ *      Author: musicrizz
+ *     Copyright (C) 2020 Giovanni Grandinetti <grandinetti.giovanni13@gmail.com>
+ *
+ */
+ 
 #include "Button.h"
 
 #define PIN_BUTTON_1  2

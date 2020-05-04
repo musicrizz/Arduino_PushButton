@@ -1,3 +1,12 @@
+/*
+ * Button.h
+ *
+ *  Created on: Mar 3, 2020
+ *      Author: musicrizz
+ *     Copyright (C) 2020 Giovanni Grandinetti <grandinetti.giovanni13@gmail.com>
+ *
+ */
+
 struct Button {
   private:
     short pin = -1;
